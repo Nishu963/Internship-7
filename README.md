@@ -109,3 +109,5 @@ npx expo start
 
 This project demonstrates basic mobile app development skills including UI design, state management, and user interaction.
 It is suitable for **internship submissions and beginner-level portfolios**.
+<img width="500" height="1086" alt="image" src="https://github.com/user-attachments/assets/1b36d336-3b8b-49fb-b4f1-c286b7655478" />
+<img width="492" height="1097" alt="image" src="https://github.com/user-attachments/assets/3918e0fa-e101-4606-94ff-39cd4b7ef092" />
